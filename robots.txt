@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JamesBGra.github.io/resources-whsps3/sitemap.xml
